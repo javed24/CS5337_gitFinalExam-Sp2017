@@ -1,0 +1,24 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+
+!src
+!src/**
+
+!libs
+!libs/**
+
+!Maps
+!Maps/**
+
+!*.txt
+!*.md
+!*.jpg
+!*.png
+
+# MAC HIDDEN FILES
+.DS_Store
+
+#but do ignore this file
